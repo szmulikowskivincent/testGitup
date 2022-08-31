@@ -1,2 +1,3 @@
 Voici mon premier texte.
 Voici mon deuxiéme texte.
+Petit changement sur la nouvelle branche.
